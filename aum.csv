@@ -1,0 +1,14 @@
+ClientID,ClientName,TotalAUM,AssetType,Allocation,AnnualFees
+001,John Doe,1500000,Stocks,60,15000
+001,John Doe,1500000,Bonds,30,15000
+001,John Doe,1500000,Alternatives,10,15000
+002,Jane Smith,2750000,Stocks,50,27500
+002,Jane Smith,2750000,Bonds,40,27500
+002,Jane Smith,2750000,Cash,10,27500
+003,Michael Lee,5000000,Stocks,70,50000
+003,Michael Lee,5000000,Bonds,20,50000
+003,Michael Lee,5000000,Real Estate,10,50000
+004,Emily Chen,3200000,Stocks,55,32000
+004,Emily Chen,3200000,Bonds,15,32000
+004,Emily Chen,3200000,Alternatives,10,32000
+004,Emily Chen,3200000,Gold,20,32000

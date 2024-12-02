@@ -1,0 +1,6 @@
+@qdrantrag_HostAddress = http://localhost:5094
+
+GET {{qdrantrag_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
